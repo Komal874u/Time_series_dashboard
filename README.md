@@ -40,4 +40,3 @@ Frontend Foundations: Pure semantic HTML5 elements alongside structured CSS3 cus
 
 Architecture: Modular, page-driven routing setup (dashboard1.html, dashboard2.html, etc.) providing instant load times without modern framework overhead.
 
-Live Link: Currently fully operational and deployed via your public portfolio page on GitHub Pages: https://komal874u.github.io/Hospital_managment_portal/
